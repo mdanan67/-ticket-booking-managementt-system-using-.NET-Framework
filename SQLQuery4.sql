@@ -1,0 +1,2 @@
+﻿ALTER TABLE [dbo].[users]
+ALTER COLUMN [email] VARCHAR(MAX) NOT NULL;
